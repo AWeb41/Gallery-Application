@@ -1,4 +1,4 @@
-# Simple Gallery
+# AWeb Gallery
 <img alt="Logo" src="Application/app/src/main/res/mipmap-xxxhdpi/launcher.png" width="80">
 
 A gallery for viewing photos and videos.
