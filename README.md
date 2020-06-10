@@ -12,7 +12,7 @@ Albums are sorted by the modified time of the last item in them from the latest 
 <img alt="App image" src="Application/screenshots/app_2.jpg" width="250">
 <img alt="App image" src="Application/screenshots/app_3.jpg" width="250">
 
-Source Code Sumber :[Simple Mobile Tools](https://f-droid.org/app/com.simplemobiletools.gallery)
+Source Code Sumber :[Simple Mobile Tools](https://github.com/SimpleMobileTools/Simple-Gallery/releases/tag/1.20)
 
 
 License
