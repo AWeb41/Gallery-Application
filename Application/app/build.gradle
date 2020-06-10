@@ -19,5 +19,6 @@ android {
 }
 
 dependencies {
+	api project(':mTools')
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
